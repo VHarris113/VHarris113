@@ -10,12 +10,19 @@ Hi! My name is Veronica and I'm a developer. I specialize in a lot of unique ski
 - Cooking
 
 ## Coding Specialities:
+![React](assets/react.png)
 ![HTML](assets/html.png)
 ![CSS](assets/css.png)
 ![JavaScript](assets/javascript.png)
+![JQuery](assets/jquery.png)
+![Bootstrap](assets/bootstrap.png)
 ![NPM](assets/npm.png)
 ![NodeJs](assets/nodejs.png)
 ![MySQL](assets/mysql.png)
 ![DBeaver](assets/DBeaver-Logo.jpg)
 ![Insomnia](assets/insomnia.png)
+![MongoDB](assets/mongo.png)
+![Mongoose](assets/mongoose.jpg)
+![Heroku](assets/heroku.png)
+![Handlebars](assets/handlebars.png)
 
