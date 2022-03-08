@@ -15,4 +15,7 @@ Hi! My name is Veronica and I'm a developer. I specialize in a lot of unique ski
 ![JavaScript](assets/javascript.png)
 ![NPM](assets/npm.png)
 ![NodeJs](assets/nodejs.png)
+![MySQL](assets/mysql.png)
+![DBeaver](assets/DBeaver-Logo.jpg)
+![Insomnia](assets/insomnia.png)
 
