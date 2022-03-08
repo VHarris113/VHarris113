@@ -11,4 +11,5 @@ Hi! My name is Veronica and I'm a developer. I specialize in a lot of unique ski
 
 ## Coding Specialities:
 ![HTML](assets/html.png)
-![CSS](https://github.com/VHarris113/VHarris113/blob/8082d242120ad6049675e04c6c45c9a7b196fa14/assets/css.png)
+![CSS](assets/css.png)
+![JavaScript](assets/javascript.png)
