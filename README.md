@@ -14,3 +14,5 @@ Hi! My name is Veronica and I'm a developer. I specialize in a lot of unique ski
 ![CSS](assets/css.png)
 ![JavaScript](assets/javascript.png)
 ![NPM](assets/npm.png)
+![NodeJs](assets/nodejs.png)
+
