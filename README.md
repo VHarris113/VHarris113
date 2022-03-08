@@ -12,7 +12,7 @@ Hi! My name is Veronica and I'm a developer. I specialize in a lot of unique ski
 - Cooking
 
 ## Coding Specialities:
-![React](assets/react.png)
+<p align="center">![React](assets/react.png)
 ![HTML](assets/html.png)
 ![CSS](assets/css.png)
 ![JavaScript](assets/javascript.png)
@@ -27,4 +27,4 @@ Hi! My name is Veronica and I'm a developer. I specialize in a lot of unique ski
 ![Mongoose](assets/mongoose.jpg)
 ![Heroku](assets/heroku.png)
 ![Handlebars](assets/handlebars.png)
-
+</p>
